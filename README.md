@@ -5,6 +5,7 @@ Only add the data directory so you can diectly run it by
 `python train.py`
 to get
 > ROCStories Valid Accuracy: 90.11
+>
 > ROCStories Test Accuracy:  86.00
 
 
