@@ -1,6 +1,6 @@
 # PyTorch implementation of OpenAI's Finetuned Transformer Language Model
 
-THIS REPO IS THE SAME AS THE [ORIGINAL PYTORCH IMPLEMENTATION](https://github.com/huggingface/pytorch-openai-transformer-lm)
+This repo is basically the SAME as the [ORIGINAL PYTORCH IMPLEMENTATION](https://github.com/huggingface/pytorch-openai-transformer-lm)
 Only add the data directory so you can diectly run it by 
 `python train.py`
 to get
@@ -8,6 +8,8 @@ to get
 >
 > ROCStories Test Accuracy:  86.00
 
+
+## Original README
 
 This is a PyTorch implementation of the [TensorFlow code](https://github.com/openai/finetune-transformer-lm) provided with OpenAI's paper ["Improving Language Understanding by Generative Pre-Training"](https://blog.openai.com/language-unsupervised/) by Alec Radford, Karthik Narasimhan, Tim Salimans and Ilya Sutskever.
 
