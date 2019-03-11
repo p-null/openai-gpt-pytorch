@@ -1,5 +1,6 @@
 # PyTorch implementation of OpenAI's Finetuned Transformer Language Model
 
+This repo is modified from [ORIGINAL PYTORCH IMPLEMENTATION](https://github.com/huggingface/pytorch-openai-transformer-lm). 
 You can diectly run it by 
 `python train.py`
 to get
