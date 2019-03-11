@@ -1,7 +1,6 @@
 # PyTorch implementation of OpenAI's Finetuned Transformer Language Model
 
-This repo is basically the SAME as the [ORIGINAL PYTORCH IMPLEMENTATION](https://github.com/huggingface/pytorch-openai-transformer-lm)
-Only add the data directory so you can diectly run it by 
+You can diectly run it by 
 `python train.py`
 to get
 > ROCStories Valid Accuracy: 90.11
